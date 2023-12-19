@@ -97,7 +97,7 @@ def findReflectionSmudge(maxRow, maxColumn):
 
 def day13p1():
     global mirrorSet
-    lines = open("haiwei.txt", "r", encoding="utf-8").read().splitlines()
+    lines = open("input.txt", "r", encoding="utf-8").read().splitlines()
     i = 0
     j = 0
     tot = 0
@@ -128,7 +128,7 @@ def day13p1():
 
 def day13p2():
     global mirrorSet
-    lines = open("haiwei.txt", "r", encoding="utf-8").read().splitlines()
+    lines = open("input.txt", "r", encoding="utf-8").read().splitlines()
     i = 0
     j = 0
     tot = 0
