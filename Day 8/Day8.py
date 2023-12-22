@@ -67,4 +67,5 @@ def day8p2():
         x = lcm(x, zSteps[i])
     return x
 
+
 print(day8p2())

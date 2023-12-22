@@ -3,12 +3,12 @@ import numpy as np
 import math
 
 
-def day21p1():
+def day22p1():
     lines = open("input.txt", "r", encoding="utf-8").read().splitlines()
 
 
-def day21p2():
+def day22p2():
     lines = open("input.txt", "r", encoding="utf-8").read().splitlines()
 
 
-print(day21p1())
+print(day22p1())
